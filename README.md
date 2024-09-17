@@ -5,7 +5,7 @@ This volume bot distribute SOL to multiple wallets and buy and sell with that di
 
 ## Contact Info
 
-Telegram: @Takhi77
+Telegram: @shinnyleo
 
 You can always feel free to find me here for my help on other projects.
 
@@ -70,8 +70,8 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/Takhi77/Solana-raydium-volume-bot.git
-cd Solana-raydium-volume-bot
+git clone https://github.com/web3batman/Raydium-Volume-Bot
+cd Raydium-Volume-Bot
 ```
 2. Install dependencies
 ```
